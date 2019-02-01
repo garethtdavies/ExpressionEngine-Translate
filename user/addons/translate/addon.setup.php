@@ -26,5 +26,5 @@ return [
             return new Jobs();
         },
     ],
-    'docs_url' => 'https://example.com/hello_world/docs',
+    'docs_url' => 'https://github.com/garethtdavies/ExpressionEngine-Translate/blob/master/README.md',
 ];
